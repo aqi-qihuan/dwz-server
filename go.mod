@@ -1,6 +1,6 @@
 module cnb.cool/mliev/dwz/dwz-server/v2
 
-go 1.27.1
+go 1.27.3
 
 require (
 	cnb.cool/mliev/open/go-web v1.9.0
